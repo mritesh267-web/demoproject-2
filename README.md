@@ -1,3 +1,3 @@
 # demoproject-2
-this is my first repositoriy
+This is my first repositoriy
 <br> Shrenik more
